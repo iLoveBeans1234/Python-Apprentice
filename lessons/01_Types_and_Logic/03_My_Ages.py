@@ -23,7 +23,6 @@ Or, you could ask the user for a float with simpledialog.askfloat()
 
 age =  simpledialog.askfloat("Your Age", "How old are you?")
 
-
 Here is how you show the user a message window. The first parameter is the title of the window, 
 the second is the message to show the user.
 
