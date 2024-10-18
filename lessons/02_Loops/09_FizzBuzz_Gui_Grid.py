@@ -31,7 +31,8 @@ from guizero import App, Box, Text
 
 app = App("Numbers Grid", layout="grid")
 
-# Create a 10x10 grid using nested loops
+# Create a 10x10 grid using nested loop
+
 # Or you can use a single loop and calculate the row and column
 
 # In the loop, calculate or increment the number
