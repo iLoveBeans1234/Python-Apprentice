@@ -18,10 +18,7 @@ Selected' button will remove the definition from the dictionary.
 The module has a limit of storing up to 5 definitions. If the limit is reached,
 an error message will be displayed and new definitions will not be added.
 
-"""
 
-
-# Implement the functions below
 
 
 def add_definition(db, key, value):
