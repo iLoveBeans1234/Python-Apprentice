@@ -51,7 +51,7 @@ while True:
         break
 
 while True:
-    print(number)
+    #print(number)
     guess = ask_integer("Guess a number between 1 and 100: ")
     if guess % 7 == 0:
         print("That is not a valid number.")

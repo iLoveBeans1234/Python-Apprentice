@@ -23,7 +23,7 @@ an error message will be displayed and new definitions will not be added.
 
 def add_definition(db, key, value):
     """
-    Add a new definition to the database.
+    # Add a new definition to the database.
 
     Parameters:
     - db (dict): The database to add the definition to.
