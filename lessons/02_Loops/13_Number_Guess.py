@@ -51,7 +51,6 @@ while True:
         break
 
 while True:
-    #print(number)
     guess = ask_integer("Guess a number between 1 and 100: ")
     if guess % 7 == 0:
         print("That is not a valid number.")
@@ -61,6 +60,7 @@ while True:
         print("Too low.")
     if guess == number:
         print("You got the number!")
+        break
 # In your loop:
 
     # Get the user's guess
