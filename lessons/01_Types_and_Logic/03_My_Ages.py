@@ -36,8 +36,12 @@ window = Tk()     # Create a window object
 window.withdraw() # Hide the window; we just want to see pop ups
 
 # Ask the user's age
-user = simpledialog.askstring(title="daddy", prompt="What is your age?")
-if user == :
+
+user = simpledialog.askstring(title="user", prompt="What is your age?")
+if user == 12:
+    messagebox.showinfo(title="user", message="YOU ARE THE SAME AGE AS ME!")
+else:
+    messagebox.showinfo(title="user", message="YOU MUST BE THE SAME AGE AS ME!")
 
 # Use if statements to determine the age group
 # and create a message
