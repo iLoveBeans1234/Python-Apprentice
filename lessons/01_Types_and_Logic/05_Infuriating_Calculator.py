@@ -22,20 +22,19 @@ you can ask for a string with simpledialog.askstring().
 """
 
 # Import the required modules
-big chungus
+
 # Create a window object
-big chungus
+
 # Hide the window, hint: use the withdraw method
-big chungus
+
 # Ask the user for the first number   
-big chungus
+
 # Ask the user for the second number
-big chungus
+
 # Ask the user for the math operation
-big chungus
+
 # Use if-elif-else statements to provide the desired math operation on the numbers and display the result.
-big chungus
+
 # If the user enters an unknown operation, display an error message. ( use messagebox.showerror()
-big chungus
+
 # Keep the window open
-big chungus
